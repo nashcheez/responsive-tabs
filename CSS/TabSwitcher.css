@@ -1,0 +1,131 @@
+﻿
+.tabsMainContainer {
+    line-height: 15px;
+    border-bottom: 1px solid #D8D8D8;
+}
+
+.tabList {
+    display: inline-block;
+    color: #1570A6;
+    cursor: pointer;
+    margin-right: 43px;
+    font-size: 105%;
+    margin-bottom: 18px;
+    position: relative;
+}
+
+.selectedTab {
+    color: #333333;
+}
+
+.tabListContainer {
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+    .tabListContainer li {
+        margin-left: 0 !important;
+    }
+
+.tabInput, .tabDropdownImage {
+    display: none;
+}
+
+.toggleTabsCollapsed, .toggleTabsExpanded {
+    display: inline;
+}
+
+.tabNotch {
+    cursor: auto;
+    position: absolute;
+    bottom: -19px;
+    left: 50%;
+    margin-left: -6px;
+    display: none;
+}
+
+.selectedNotch {
+    display: inline;
+}
+
+@media screen and (max-width: 769px) {
+
+    .tabListContainer {
+        position: absolute;
+        margin: 0;
+        width: 230px;
+        padding: 0;
+        cursor: pointer;
+        list-style-position: inside;
+        z-index: 12;
+        background-color: #FFFFFF;
+        border: 1px #E5E5E5 solid;
+    }
+
+    .tabList {
+        color: #333333;
+        display: flex;
+        align-items: center;
+        height: 30px;
+        padding: 0 10px 0 10px;
+        font-size: 100%;
+        margin: 0;
+        list-style-type: none;
+        line-height: 30px;
+    }
+
+    .selectedTab {
+        background-color: #1971a7 !important;
+        border: thin #1971a7 solid !important;
+        color: #FFFFFF;
+    }
+
+    .tabList:hover {
+        background-color: #EEE;
+    }
+
+    .tabInput {
+        display: inline-block;
+        cursor: pointer;
+        color: #333333;
+        font-size: 100%;
+        width: 200px;
+        border: none;
+        padding-left: 10px;
+    }
+
+    .tabDropdownImage {
+        display: inline-block;
+        cursor: pointer;
+        vertical-align: middle;
+    }
+
+    .toggleTabsCollapsed {
+        display: none;
+    }
+
+    .toggleTabsExpanded {
+        display: inline;
+    }
+
+    .tabNotch {
+        display: none !important;
+    }
+
+    .tabsMainContainer {
+        border: none;
+    }
+
+    .tabInputBox {
+        width: 230px;
+        border: 1px #E5E5E5 solid;
+        height: 26px;
+        vertical-align: middle;
+        padding-top: 4px;
+    }
+
+    .tabListContainer li {
+        display: block;
+    }
+}
