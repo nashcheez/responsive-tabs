@@ -49,13 +49,13 @@
 
 -   Desktop view
 
-<a href="https://github.com/nashcheez/responsive-tabs">
+<a href="https://nashcheez.github.io/responsive-tabs/">
   <img src="https://user-images.githubusercontent.com/2913308/62655109-f7726d00-b97e-11e9-8378-ca0c7b58d654.png" alt="tabs-logo" width="600px" />
 </a>
 
 -   Mobile view
 
-<a href="https://github.com/nashcheez/responsive-tabs">
+<a href="https://nashcheez.github.io/responsive-tabs/">
   <img src="https://user-images.githubusercontent.com/2913308/62656815-a9f7ff00-b982-11e9-93fc-45e4ec9457e6.png" alt="tabs-logo" width="410px" />
 </a>
 

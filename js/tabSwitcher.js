@@ -1,5 +1,5 @@
 ﻿var constants = {
-        imageReferenceURL: "Images/",
+        imageReferenceURL: "images/",
     },
     common = {
         bIsMobile: false,
