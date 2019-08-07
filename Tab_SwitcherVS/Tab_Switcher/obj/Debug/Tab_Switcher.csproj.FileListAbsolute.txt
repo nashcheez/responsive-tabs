@@ -1,6 +1,0 @@
-c:\users\abhigup\documents\visual studio 2013\Projects\Tab_Switcher\Tab_Switcher\bin\Tab_Switcher.dll.config
-c:\users\abhigup\documents\visual studio 2013\Projects\Tab_Switcher\Tab_Switcher\bin\Tab_Switcher.dll
-c:\users\abhigup\documents\visual studio 2013\Projects\Tab_Switcher\Tab_Switcher\bin\Tab_Switcher.pdb
-c:\users\abhigup\documents\visual studio 2013\Projects\Tab_Switcher\Tab_Switcher\obj\Debug\Tab_Switcher.csprojResolveAssemblyReference.cache
-c:\users\abhigup\documents\visual studio 2013\Projects\Tab_Switcher\Tab_Switcher\obj\Debug\Tab_Switcher.dll
-c:\users\abhigup\documents\visual studio 2013\Projects\Tab_Switcher\Tab_Switcher\obj\Debug\Tab_Switcher.pdb
