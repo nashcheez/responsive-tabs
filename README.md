@@ -50,13 +50,13 @@
 -   Desktop view
 
 <a href="https://github.com/nashcheez/responsive-tabs">
-  <img src="https://user-images.githubusercontent.com/2913308/62655109-f7726d00-b97e-11e9-8378-ca0c7b58d654.png" alt="tabs-logo" max-width="600px" />
+  <img src="https://user-images.githubusercontent.com/2913308/62655109-f7726d00-b97e-11e9-8378-ca0c7b58d654.png" alt="tabs-logo" width="600px" />
 </a>
 
 -   Mobile view
 
 <a href="https://github.com/nashcheez/responsive-tabs">
-  <img src="https://user-images.githubusercontent.com/2913308/62655167-0f49f100-b97f-11e9-965d-41f0006b71c6.png" alt="tabs-logo" max-width="600px" />
+  <img src="https://user-images.githubusercontent.com/2913308/62655167-0f49f100-b97f-11e9-965d-41f0006b71c6.png" alt="tabs-logo" width="600px" />
 </a>
 
 Tabs are user interface elements that allow you to navigate between multiple documents in a single window. Regular implementations don't support responsiveness and tabs don't look polished on a mobile device. This plugin helps you to resolve that.
